@@ -1,0 +1,16 @@
+h1{
+    color:brown
+}
+h2{color:green}
+
+h3{color:violet}
+
+h4{color:seagreen}
+
+ul,
+ol{color:blue;
+background-color: rgb(185, 206, 65);}
+
+ol{font-weight:bold}
+
+ul{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif}
